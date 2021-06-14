@@ -10,9 +10,15 @@
   "author": "Gabriel <gabriel_hernandez_95@yahoo.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onedrako/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onedrako/random-messages/issues"
+  },
+  "homepage": "https://github.com/onedrako/random-messages#readme"
 }
-
-
